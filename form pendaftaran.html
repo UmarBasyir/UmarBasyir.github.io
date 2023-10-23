@@ -19,7 +19,7 @@
 
         <nav class="navbar">
             <div class="link">
-                <li> <a href="halaman utama.html">Halaman Utama  </a> </li>
+                <li> <a href="index.html">Halaman Utama  </a> </li>
                 <li> <a href="form pendaftaran.html">Form pendaftaran  </a>  </li>
                 <li> <a href="halaman tabel.php">Halaman Tabel</a> </li>
             </div>
